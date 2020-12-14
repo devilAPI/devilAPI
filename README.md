@@ -1,8 +1,7 @@
 <html>
     <p>
-      Even more stuff on your page and
       <a href="bitcoin:ANOTHER_BITCOIN_ADDRESS">
-        another donation link, this time with a suggested amount
+        Donate with BTC
       </a>.
 </html>
 
