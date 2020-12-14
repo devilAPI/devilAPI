@@ -4,9 +4,7 @@
     <link rel="stylesheet" href="/path/to/css/btcdonate.css">
   </head>
   <body>
-
     <h1>My Awesome Web Page</h1>
-
     <p>Some stuff on your page and <a href="bitcoin:A_BITCOIN_ADDRESS">a donation link</a></p>
     <p>Some more stuff on your page</p>
     <p>
@@ -15,14 +13,12 @@
         another donation link, this time with a suggested amount
       </a>.
     </p>
-
     <script type="text/javascript" src="/path/to/js/jquery.js"></script>
     <script type="text/javascript" src="/path/to/js/jquery.qrcode.js"></script>
     <script type="text/javascript" src="/path/to/js/btcdonate.js"></script>
     <script>
       btcdonate();
     </script>
-
   </body>
 </html>
 
