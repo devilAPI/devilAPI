@@ -1,17 +1,19 @@
-<html>
-    <p>
-      <a href="bitcoin:ANOTHER_BITCOIN_ADDRESS">
-        Donate with BTC
-      </a>.
-</html>
+[1]: https://twitter.com/devilAPI
+[2]: https://t.me/devilAPI
+[3]: https://discord.com/
+[4]: mailto:cryptofyre@protonmail.com
 
-Here are some ideas to get you started:
+## Hello!
+Thanks for taking the time to look at my profile. Feel free to take inspriration to build your own software or profile like mine!
+### Who am I?
+I am a Software Engineer and Developer from Germany, im working on literally everything from php to minecraft mods!
+### Where do I work?
+I work from home making Software and experimenting to help support others in everyday living.
+### Where can I contact you?
+Im available on many platforms!
++ Twitter: [devilAPI][1]
++ Telegram: [devilAPI][2]
++ Discord: [devilAPI#7980][3]
++ Email: [contact@felixseiboldt.de][4]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devilAPI&show_icons=true&theme=radical)
