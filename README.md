@@ -16,4 +16,10 @@ Im available on many platforms!
 + Discord: [devilAPI#7980][3]
 + Email: [contact@felixseiboldt.de][4]
 
+![GitHub followers](https://img.shields.io/github/followers/devilAPI?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/devilAPI?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FdevilAPI)
+
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fdevilapi.de)
+
 ![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devilAPI&show_icons=true&theme=radical)
