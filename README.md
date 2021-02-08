@@ -22,5 +22,6 @@ Im available on many platforms!
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fdevilapi.de)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilAPI&langs_count=8)]
-![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devilAPI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilAPI&langs_count=5)
+
+![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devilAPI&show_icons=true&theme=Gradient)
