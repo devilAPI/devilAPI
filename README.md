@@ -1,7 +1,6 @@
 [1]: https://twitter.com/devilAPI
 [2]: https://t.me/devilAPI
 [3]: https://discord.com/
-[4]: mailto:cryptofyre@protonmail.com
 
 ## Hello!
 Thanks for taking the time to look at my profile. Feel free to take inspriration to build your own software or profile like mine!
